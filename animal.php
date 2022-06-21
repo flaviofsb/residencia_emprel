@@ -29,7 +29,7 @@
         <div class='container'>
         <h1>Animal Complaint</h1>
     
-    <form method="POST" action="#" name="formQueixaAnimal">
+    <form method="POST" action="animal_process.php" name="formQueixaAnimal">
       <p>Complaint Description: </p>
       <p><textarea rows="6" name="descricaoQueixa" cols="63"></textarea></p>
       <p>Observations:</p>
